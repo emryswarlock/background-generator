@@ -4,3 +4,4 @@ see result here: [emryswarlock.github.io/background-generator](https://emryswarl
 ### Feature: 
 * *Generate a linear-gradient background*
 * *Two input color*
+* *Generate random-color*
